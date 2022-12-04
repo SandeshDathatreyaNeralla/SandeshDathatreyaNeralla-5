@@ -1,0 +1,61 @@
+.holicard{
+    background-image: url("https://www.freevector.com/uploads/vector/preview/31158/Freevector_Holi-Background_mf0221.jpg");
+    background-size: cover;
+    height:30vh;
+}
+.Headfirst{
+    color:blueviolet;
+    font-family:cursive;
+    font-size: 40px;
+    padding-top: 120px;
+    text-align: center;
+    font-weight: bold;
+}
+.holibottom{
+    background-color: gold;
+    height:70vh;
+    
+}
+.imageres{
+    height:80px;
+    width:80px;
+
+}
+.Happyholicard{
+    background-color: white;
+    width:150px;
+    border-radius: 15px;
+    padding:5px;
+    height:145px;
+    text-align: center;
+    margin:15px;
+ 
+
+}
+.holiheading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+
+
+}
+.holipara{
+    font-weight: bold;
+
+
+}
+.headsecond{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:crimson;
+
+    
+}
+.Happyholicard:hover{
+
+     transform: scale(1.2);
+}
+
+
+
+
